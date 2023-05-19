@@ -6,7 +6,7 @@
 <h1>IoT Smart Fans</h1>
 </div>
 <p align='center'>A School Project Undertaken During High School.</p>
-<p align='center'>Created By Pao Mian in 2021-2022</p>
+<p align='center'>Created By Pao Mian (YING, CHIN-WEN) in 2021-2022</p>
 
 Introduction - 介紹
 ---
