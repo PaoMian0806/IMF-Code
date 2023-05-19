@@ -18,6 +18,18 @@ Description - 說明
 
 placeholder.
 
+How To Contribute - 開發指南
+---
+
+placeholder.
+
+- 採用開發板：
+    - Arduino Nano
+        - 處理器：Atmega328P（Old Bootloader）
+    - NodeMCU-32S
+        - Upload Speed：115200
+        - Flash Frequency：80MHz
+
 Award List - 競賽獎項
 ---
 
