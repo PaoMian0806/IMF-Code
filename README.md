@@ -18,3 +18,7 @@ Description - 說明
 
 placeholder.
 
+Other Credit - 採用之資源
+---
+- Arduino Library
+    - [FirebaseJson](https://github.com/mobizt/FirebaseJson) - By [Mobizt](https://github.com/mobizt)
