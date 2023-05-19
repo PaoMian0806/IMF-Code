@@ -30,6 +30,11 @@ placeholder.
         - Upload Speed：115200
         - Flash Frequency：80MHz
 
+<div align='center'>
+<img src='https://github.com/PaoMian0806/IMF-Code/blob/main/Screenshot_01.jpg' height='500px'>
+</div>
+<p align='center'>OpenData 資料查閱介面</p>
+
 Award List - 競賽獎項
 ---
 
@@ -49,3 +54,4 @@ Other Credit - 採用之資源
 ---
 - Arduino Library
     - [FirebaseJson](https://github.com/mobizt/FirebaseJson) - By [Mobizt](https://github.com/mobizt)
+    - [政府資料開放平臺 - OpenData](https://data.gov.tw) - By 數位發展部
