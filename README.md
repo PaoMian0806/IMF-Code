@@ -18,10 +18,32 @@ Description - 說明
 
 placeholder.
 
+<div align='center'>
+<img src='https://github.com/PaoMian0806/IMF-Code/blob/main/Screenshot_01.jpg' height='500px'>
+</div>
+<p align='center'>OpenData 資料查閱介面</p>
+
 How To Contribute - 開發指南
 ---
 
-placeholder.
+若有志同道合者、或欲對本項目之Source Code進行添加、修改等貢獻，建議先使用Arduino IDE以及APP Inventor 2對原檔案進行開發作業，以便快速熟悉具體操作方式及程式架構。若在途中有更換更換開發環境之念頭 (諸如使用[Thonny](https://thonny.org)、[Flutter](https://flutter.dev)等)，可依照現有開發資訊及穩定程度來選擇之。
+
+硬體方面的元件需求如下：
+
+- 採用開發板：
+    - Arduino Nano
+        - a
+    - NodeMCU-32S
+        - b
+        - c
+    - d
+    - e
+    - f
+    - g
+    - h
+    - i
+
+所有的Source Code所採用的開發環境如下：
 
 - 採用開發板：
     - Arduino Nano
@@ -29,11 +51,6 @@ placeholder.
     - NodeMCU-32S
         - Upload Speed：115200
         - Flash Frequency：80MHz
-
-<div align='center'>
-<img src='https://github.com/PaoMian0806/IMF-Code/blob/main/Screenshot_01.jpg' height='500px'>
-</div>
-<p align='center'>OpenData 資料查閱介面</p>
 
 Award List - 競賽獎項
 ---
@@ -61,7 +78,7 @@ Other Credit - 採用之資源
     - b
     - c
 
-<p align='center'>感謝侯淇健導師、牛暄中導師、林傳傑導師的細心指導，才能有本研究。</p>
+<p align='center'>感謝侯淇健師、牛暄中師、林傳傑師於這兩年間的細心指導、評點，本研究才能順利完成。</p>
 
 License - 著作權說明
 ---
