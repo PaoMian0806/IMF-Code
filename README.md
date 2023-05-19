@@ -52,6 +52,18 @@ Award List - 競賽獎項
 
 Other Credit - 採用之資源
 ---
+
 - Arduino Library
     - [FirebaseJson](https://github.com/mobizt/FirebaseJson) - By [Mobizt](https://github.com/mobizt)
     - [政府資料開放平臺 - OpenData](https://data.gov.tw) - By 數位發展部
+- ESP32 Node-MCU Library
+    - a
+    - b
+    - c
+
+<p align='center'>感謝侯淇健導師、牛暄中導師、林傳傑導師的細心指導，才能有本研究。</p>
+
+License - 著作權說明
+---
+
+本Project採用MIT授權條款（MIT License）。
