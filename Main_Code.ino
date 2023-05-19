@@ -74,13 +74,11 @@ void setup()
 
     digitalWrite(Relay, HIGH);
     MAIN_SCENE();
-
   }
   else{
     Serial.println("未偵測到LCD");
   }
 }
-
 
 void loop() /* 迴圈函數，中止程式之前將不斷重複 */
 {
@@ -119,7 +117,7 @@ void loop() /* 迴圈函數，中止程式之前將不斷重複 */
          }
       } 
   }   
-    
+ 
   while(Serial.available()){ /* 監控視窗 */
     
       delay(100);
@@ -362,7 +360,6 @@ void CHECK(){
     Check_Point -=5;
   }
 }
-    
 
 int FAN_STATE(float *x){ /* 風扇Mode的判斷函數 */
   
@@ -385,7 +382,6 @@ int FAN_STATE(float *x){ /* 風扇Mode的判斷函數 */
 
   return 0;
 }
-
 
 void FAN_WORKING(){
   analogWrite(ENA, PWMA);
