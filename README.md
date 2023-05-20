@@ -30,18 +30,19 @@ How To Contribute - 開發指南
 
 硬體方面的元件需求如下：
 
-- 採用開發板：
-    - Arduino Nano
-        - a
-    - NodeMCU-32S
-        - b
-        - c
-    - d
-    - e
-    - f
-    - g
-    - h
-    - i
+- Arduino Nano
+- NodeMCU-32S
+- Nano IO Shield V1.0
+- DHT Sensor
+- Brushed DC Motor 130-Size 6V
+- TB6612FNG Motor Driver Board
+- LCD1602 I2C Blue
+- HC-05 Bluetooth Module
+- LM2596 DC-DC Buck Adjustable Step-Down Power Supply Converter Module 
+- JQC-3FF-S-Z-5V Relay
+
+軟體方面的元件需求如下：
+
 
 所有的Source Code所採用的開發環境如下：
 
