@@ -26,7 +26,7 @@ placeholder.
 How To Contribute - 開發指南
 ---
 
-若有志同道合者、或欲對本項目之Source Code進行添加、修改等貢獻，建議先使用Arduino IDE以及APP Inventor 2對原檔案進行開發作業，以便快速熟悉具體操作方式及程式架構。若在途中有更換更換開發環境之念頭 (諸如使用[Thonny](https://thonny.org)、[Flutter](https://flutter.dev)等)，可依照現有開發資訊及穩定程度來選擇之。
+若有志同道合者、或欲對本項目之Source Code進行添加、修改等貢獻，建議先使用[Arduino IDE](https://www.arduino.cc/en/software)以及[APP Inventor 2](https://appinventor.mit.edu)對原檔案進行開發作業，以便快速熟悉具體操作方式及程式架構。若在途中有更換更換開發環境之念頭 (諸如使用[Thonny](https://thonny.org)、[Flutter](https://flutter.dev)等)，可依照現有開發資訊及穩定程度來選擇之。
 
 硬體方面的元件需求如下：
 
