@@ -41,8 +41,11 @@ How To Contribute - 開發指南
 - LM2596 DC-DC Buck Adjustable Step-Down Power Supply Converter Module 
 - JQC-3FF-S-Z-5V Relay
 
-軟體方面的元件需求如下：
+軟體 & 環境方面的元件需求如下：
 
+- Arduino IDE
+- APP Inventor 2
+- FireBase
 
 所有的Source Code所採用的開發環境如下：
 
