@@ -41,12 +41,6 @@ How To Contribute - 開發指南
 - LM2596 DC-DC Buck Adjustable Step-Down Power Supply Converter Module 
 - JQC-3FF-S-Z-5V Relay
 
-軟體 & 環境方面的元件需求如下：
-
-- Arduino IDE
-- APP Inventor 2
-- FireBase
-
 所有的Source Code所採用的開發環境如下：
 
 - 採用開發板：
@@ -56,12 +50,19 @@ How To Contribute - 開發指南
         - Upload Speed：115200
         - Flash Frequency：80MHz
 
+- 軟體 & 環境需求：
+    - Arduino IDE
+    - APP Inventor 2
+    - FireBase
+
 Award List - 競賽獎項
 ---
 
 - 高二-110學年校內發明與專題製作競賽-佳作
 - 高二-110學年第二學期校內資訊科專題實作期末成果發表會-特優
 - 高二-111年0315梯次之全國高級中等學小論文寫作比賽-優等
+> 1110315 > 臺北 > 工程技術類 > 市立內湖高工 > 物聯網辦智慧風扇
+> [中學生網站連結](https://www.shs.edu.tw/Customer/Winning/EssayIndex)
 - 高二-AEUST-2022年全國高中職電資創意應用競賽-入圍
     - 高二-AEUST-2022年全國高中職電資創意應用競賽-電子電機應用組佳作
 - 高二-臺北市第55屆中小學科學展覽會-佳作
