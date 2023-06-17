@@ -72,15 +72,18 @@ Award List - 競賽獎項
 > **類別：** 工程學科（一）  
 相關連結：[臺北市政府教育局](https://www.doe.gov.taipei/News_Content.aspx?n=9FD270235C89E007&s=3FD6EDBDBC49B549)
 - 高二-2022年第十八屆全國電子設計創意競賽暨學術研討會-入圍
-> **類別：** 電子電機應用組  
-相關連結：[亞東科大官網](https://en.aeust.edu.tw/p/404-1047-42607.php?Lang=zh-tw)
+> **類別：** 資通類  
+相關連結：[高科大官網](http://www.ec.kuas.edu.tw/competition/past_competitions/%E7%AC%AC18%E5%B1%86)
 - 高三-2022全國資訊管理前瞻技術研討會暨專題競賽-入圍
     - 高三-2022全國資訊管理前瞻技術研討會暨專題競賽-高中專題組冠軍
-> **類別：** 電子電機應用組  
-相關連結：[亞東科大官網](https://en.aeust.edu.tw/p/404-1047-42607.php?Lang=zh-tw)
+> **類別：** 高中職專題組  
+相關連結：  
+- [龍華科大官網](https://im.lhu.edu.tw/p/405-1010-14921,c1207.php?Lang=zh-tw)  
+- [精彩回顧影片](https://www.youtube.com/watch?v=UN27CvvMiII)
 - 高三-2022年工程科技技術應用研討會-發表證明
-> **類別：** 電子電機應用組  
-相關連結：[亞東科大官網](https://en.aeust.edu.tw/p/404-1047-42607.php?Lang=zh-tw)
+> **類別：** ABC  
+相關連結：[明新科大官網](https://2022mustpaper.blogspot.com/p/blog-page_45.html)
+
 Other Credit - 採用之資源
 ---
 
