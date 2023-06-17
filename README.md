@@ -62,27 +62,26 @@ Award List - 競賽獎項
 - 高二-110學年第二學期校內資訊科專題實作期末成果發表會-特優
 - 高二-111年0315梯次之全國高級中等學小論文寫作比賽-優等
 > **類別：** 1110315 > 臺北 > 工程技術類 > 市立內湖高工 > 物聯網辦智慧風扇  
-相關連結：[中學生網站](https://www.shs.edu.tw/Customer/Winning/EssayIndex)
+**相關連結：** [中學生網站](https://www.shs.edu.tw/Customer/Winning/EssayIndex)
 - 高二-AEUST-2022年全國高中職電資創意應用競賽-入圍
     - 高二-AEUST-2022年全國高中職電資創意應用競賽-電子電機應用組佳作
 > **類別：** 電子電機應用組  
-相關連結：[亞東科大官網](https://en.aeust.edu.tw/p/404-1047-42607.php?Lang=zh-tw)
+**相關連結：** [亞東科大官網](https://en.aeust.edu.tw/p/404-1047-42607.php?Lang=zh-tw)
 - 高二-臺北市第55屆中小學科學展覽會-佳作
     - 高二-臺北市第55屆中小學科學展覽會-探究精神獎
 > **類別：** 工程學科（一）  
-相關連結：[臺北市政府教育局](https://www.doe.gov.taipei/News_Content.aspx?n=9FD270235C89E007&s=3FD6EDBDBC49B549)
+**相關連結：** [臺北市政府教育局](https://www.doe.gov.taipei/News_Content.aspx?n=9FD270235C89E007&s=3FD6EDBDBC49B549)
 - 高二-2022年第十八屆全國電子設計創意競賽暨學術研討會-入圍
 > **類別：** 資通類  
-相關連結：[高科大官網](http://www.ec.kuas.edu.tw/competition/past_competitions/%E7%AC%AC18%E5%B1%86)
+**相關連結：** [高科大官網](http://www.ec.kuas.edu.tw/competition/past_competitions/%E7%AC%AC18%E5%B1%86)
 - 高三-2022全國資訊管理前瞻技術研討會暨專題競賽-入圍
     - 高三-2022全國資訊管理前瞻技術研討會暨專題競賽-高中專題組冠軍
 > **類別：** 高中職專題組  
-相關連結：  
+> **相關連結：**  
 > - [龍華科大官網](https://im.lhu.edu.tw/p/405-1010-14921,c1207.php?Lang=zh-tw)  
 > - [精彩回顧影片](https://www.youtube.com/watch?v=UN27CvvMiII)
 - 高三-2022年工程科技技術應用研討會-發表證明
-> **類別：** ABC  
-相關連結：[明新科大官網](https://2022mustpaper.blogspot.com/p/blog-page_45.html)
+> **相關連結：** [明新科大官網](https://2022mustpaper.blogspot.com/p/blog-page_45.html)
 
 Other Credit - 採用之資源
 ---
