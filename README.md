@@ -52,8 +52,10 @@ How To Contribute - 開發指南
 
 - 軟體 & 環境需求：
     - Arduino IDE
+        - 最低版本要求：1.8.20
     - APP Inventor 2
     - FireBase
+        - 採用項目：RealTimeDataBase
 
 Award List - 競賽獎項
 ---
@@ -84,13 +86,12 @@ Award List - 競賽獎項
 Other Credit - 採用之資源
 ---
 
-- Arduino Library
+- Arduino
+    - [LiquidCrystal_PCF8574](https://github.com/mathertel/LiquidCrystal_PCF8574) - By [Mathertel](https://github.com/mathertel)
+    - [DHT-Sensor-Library](https://github.com/adafruit/DHT-sensor-library) - By [Adafruit Industries](https://github.com/adafruit)
+- ESP32 Node-MCU
     - [FirebaseJson](https://github.com/mobizt/FirebaseJson) - By [Mobizt](https://github.com/mobizt)
     - [政府資料開放平臺 - OpenData](https://data.gov.tw) - By 數位發展部
-- ESP32 Node-MCU Library
-    - a
-    - b
-    - c
 
 <p align='center'>感謝侯淇健師、牛暄中師、林傳傑師於這兩年間的細心指導、評點，本研究才能順利完成。</p>
 
