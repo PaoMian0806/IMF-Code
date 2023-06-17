@@ -79,7 +79,7 @@ Award List - 競賽獎項
 > **類別：** 高中職專題組  
 相關連結：  
 > - [龍華科大官網](https://im.lhu.edu.tw/p/405-1010-14921,c1207.php?Lang=zh-tw)  
-- [精彩回顧影片](https://www.youtube.com/watch?v=UN27CvvMiII)
+> - [精彩回顧影片](https://www.youtube.com/watch?v=UN27CvvMiII)
 - 高三-2022年工程科技技術應用研討會-發表證明
 > **類別：** ABC  
 相關連結：[明新科大官網](https://2022mustpaper.blogspot.com/p/blog-page_45.html)
