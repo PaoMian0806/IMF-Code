@@ -19,7 +19,7 @@ Description - 說明
 placeholder.
 
 <div align='center'>
-<img src='https://github.com/PaoMian0806/IMF-Code/blob/main/Screenshot_01.jpg' height='500px'>
+<img src='https://github.com/PaoMian0806/IMF-Code/blob/main/ScreenShots/Screenshot_01.jpg' height='500px'>
 </div>
 <p align='center'>OpenData 資料查閱介面</p>
 
