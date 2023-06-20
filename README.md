@@ -8,6 +8,9 @@
 <p align='center'>A School Project Undertaken During High School.</p>
 <p align='center'>Created By Pao Mian (YING, CHIN-WEN) in 2021-2022</p>
 
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&align=center)
+
+https://drive.google.com/file/d/1hAF2Md2B5PkYcPJ7AsmIsPsZvvsKN-ZQ/view?usp=sharing
 Introduction - 介紹
 ---
 
